@@ -1,0 +1,8 @@
+Êþº¾   3 6  com/file/hibernate/Employee  java/lang/Object  java/io/Serializable no I RuntimeVisibleAnnotations Ljavax/persistence/Id; Ljavax/persistence/Column; name eid fname Ljava/lang/String; 	firstname lname lastname email <init> ()V Code
+     LineNumberTable LocalVariableTable this  Lcom/file/hibernate/Employee; getNo ()I	      setNo (I)V getFname ()Ljava/lang/String;	  &   setFname (Ljava/lang/String;)V getLname	  +   setLname getEmail	  /   setEmail 
+SourceFile Employee.java Ljavax/persistence/Entity; Ljavax/persistence/Table; employee !           	     
+     s       	       s       	       s       	       s  	        /     *· ±                               /     *´ ¬                         ! "     >     *µ ±       
+                          # $     /     *´ %°                         ' (     >     *+µ %±       
+                           ) $     /     *´ *°           "              , (     >     *+µ *±       
+    %  &                    - $     /     *´ .°           (              0 (     >     *+µ .±       
+    +  ,                    1    2 	     3   4  s 5
